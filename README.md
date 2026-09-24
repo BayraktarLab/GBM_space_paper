@@ -20,7 +20,7 @@ Within each topic directory, code is separated into subdirectories outlining `An
 Please see the [GBMspace portal](https://www.gbmspace.org/) for our spatial and single nucleus multiome data. Source data for figures is provided in `data` where possible.
 
 ## License
-
+MIT license - see [LICENSE](https://github.com/BayraktarLab/GBM_space_paper/blob/main/LICENSE) for more information.
 
 ## Contact
 
