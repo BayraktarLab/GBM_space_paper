@@ -1,0 +1,49 @@
+,clusterA,clusterB,clusters,mean,std,weight
+118,Dev-like (AC),Dev-like (OPC),"Dev-like (AC), Dev-like (OPC)",109.99889558166822,99.73223613842083,7.398051798770423
+119,Dev-like (AC),Gliosis,"Dev-like (AC), Gliosis",186.47115005464698,185.54807070641638,4.826483880944839
+121,Dev-like (AC),Gliosis transition,"Dev-like (AC), Gliosis transition",176.80572578568723,239.8848734795092,5.090332883737732
+123,Dev-like (AC),Grey matter,"Dev-like (AC), Grey matter",255.954473884409,340.4156328981832,3.516250317259338
+125,Dev-like (AC),Hypoxic 1 (niche),"Dev-like (AC), Hypoxic 1 (niche)",238.76443091767126,204.09448709456646,3.7694056712757624
+127,Dev-like (AC),Immune (infiltrating),"Dev-like (AC), Immune (TAMs)",153.86782903294224,145.8051415065507,5.849175917126347
+128,Dev-like (AC),Immune (resident),"Dev-like (AC), Immune (resident)",143.6882225039191,142.19502331731488,6.263561371395297
+140,Dev-like (AC),Pial layer,"Dev-like (AC), Pial layer",290.19429378937866,448.24577140171345,3.1013704240966735
+141,Dev-like (AC),Proliferative,"Dev-like (AC), Proliferative",184.91297941557065,265.79286132231147,4.867154284380187
+144,Dev-like (AC),Vasculature,"Dev-like (AC), Vasculature",167.4485684525711,218.59582804161266,5.374784677570535
+145,Dev-like (AC),White matter,"Dev-like (AC), White matter",215.81237353968825,344.41660886336314,4.170289150888229
+174,Dev-like (OPC),Gliosis,"Dev-like (OPC), Gliosis",289.4203368435723,290.28878526654944,3.1096639918791804
+176,Dev-like (OPC),Gliosis transition,"Dev-like (OPC), Gliosis transition",253.6623345503369,270.06172899774515,3.548023799415926
+178,Dev-like (OPC),Grey matter,"Dev-like (OPC), Grey matter",219.46982381635206,284.4873159602834,4.100791554619837
+180,Dev-like (OPC),Hypoxic 1 (niche),"Dev-like (OPC), Hypoxic 1 (niche)",285.6705451278861,228.82417035510787,3.150482313803466
+182,Dev-like (OPC),Immune (infiltrating),"Dev-like (OPC), Immune (TAMs)",163.17306640968124,215.2859731870875,5.515616147951498
+183,Dev-like (OPC),Immune (resident),"Dev-like (OPC), Immune (resident)",123.41846240806778,103.47936679763338,7.292263916108937
+193,Dev-like (OPC),Pial layer,"Dev-like (OPC), Pial layer",216.5207241352023,226.1233225781911,4.156645991253992
+194,Dev-like (OPC),Proliferative,"Dev-like (OPC), Proliferative",212.74778508384588,306.11589583041405,4.230361315608064
+197,Dev-like (OPC),Vasculature,"Dev-like (OPC), Vasculature",169.5642482098632,215.0232211258865,5.307722644965255
+198,Dev-like (OPC),White matter,"Dev-like (OPC), White matter",160.4799279130436,173.52751285804712,5.6081779927497655
+200,Gliosis,Gliosis transition,"Gliosis, Gliosis transition",145.1898282196764,261.03730421969925,6.198781354285191
+204,Gliosis,Hypoxic 1 (niche),"Gliosis, Hypoxic 1 (niche)",116.58742193991912,147.49687679693426,7.398051798770423
+206,Gliosis,Immune (infiltrating),"Gliosis, Immune (TAMs)",201.82918663415705,281.58226640528454,4.459216305674228
+207,Gliosis,Immune (resident),"Gliosis, Immune (resident)",305.42387817782713,384.40136760942113,2.9467244190907445
+220,Gliosis,Proliferative,"Gliosis, Proliferative",236.4717338087848,218.79500530718784,3.8059517114538344
+223,Gliosis,Vasculature,"Gliosis, Vasculature",241.77368363356442,248.25405023859352,3.7224895053675597
+253,Gliosis transition,Hypoxic 1 (niche),"Gliosis transition, Hypoxic 1 (niche)",192.95725019511045,308.73486805287627,4.664245572995869
+255,Gliosis transition,Immune (infiltrating),"Gliosis transition, Immune (TAMs)",158.76381123584287,190.93447764753216,5.668798153648846
+256,Gliosis transition,Immune (resident),"Gliosis transition, Immune (resident)",245.72143218030456,209.54903833901477,3.6626841705024793
+268,Gliosis transition,Proliferative,"Gliosis transition, Proliferative",288.26618402544347,362.57716235851365,3.1221143855033744
+271,Gliosis transition,Vasculature,"Gliosis transition, Vasculature",161.07329973450933,167.30416289359763,5.587518238487906
+300,Grey matter,Immune (resident),"Grey matter, Immune (resident)",270.67262457175934,241.1728263870122,3.325049961827213
+312,Grey matter,Pial layer,"Grey matter, Pial layer",202.67912688502108,249.15037102066765,4.440516464779157
+317,Grey matter,White matter,"Grey matter, White matter",262.18853327155637,256.58040908652106,3.4326443981737507
+332,Hypoxic 1 (niche),Immune (infiltrating),"Hypoxic 1 (niche), Immune (TAMs)",251.78662581338165,251.6202720149269,3.574455144678967
+333,Hypoxic 1 (niche),Immune (resident),"Hypoxic 1 (niche), Immune (resident)",299.6728889488139,309.5400526446369,3.0032746811264794
+349,Hypoxic 1 (niche),Vasculature,"Hypoxic 1 (niche), Vasculature",254.70167412898772,185.28943829062968,3.533545678793678
+369,Immune (infiltrating),Immune (resident),"Immune (TAMs), Immune (resident)",171.33964217257358,168.57811026789562,5.252724872003167
+382,Immune (infiltrating),Proliferative,"Immune (TAMs), Proliferative",233.06615677695865,308.10323216316414,3.861564512179641
+385,Immune (infiltrating),Vasculature,"Immune (TAMs), Vasculature",187.02633685505856,238.0598183606163,4.812156486267925
+386,Immune (infiltrating),White matter,"Immune (TAMs), White matter",284.19777388570196,439.8917894059893,3.16680876030352
+396,Immune (resident),Pial layer,"Immune (resident), Pial layer",253.05185275992892,293.40985517745696,3.556583325449242
+397,Immune (resident),Proliferative,"Immune (resident), Proliferative",258.1604927110659,319.9752686326774,3.4862034486713003
+400,Immune (resident),Vasculature,"Immune (resident), Vasculature",175.70093520104106,185.0552510266273,5.122340407409894
+401,Immune (resident),White matter,"Immune (resident), White matter",157.22896952951365,162.51667381273558,5.724135969936888
+493,Pial layer,Proliferative,"Pial layer, Proliferative",306.8317403945677,334.7230967874413,2.9332037123755597
+500,Proliferative,Vasculature,"Proliferative, Vasculature",223.90315719258174,255.17558400194437,4.019594950266375
