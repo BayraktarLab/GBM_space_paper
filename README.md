@@ -2,6 +2,8 @@
 
 Code repository for analysis and figure plotting related to the GBMspace project.
 
+![](metadata/assets/project_summary.png)
+
 ## Repository contents
 
 - `metadata` - Metadata associated with the project.
@@ -23,4 +25,4 @@ Please see the [GBMspace portal](https://www.gbmspace.org/) for our spatial and 
 MIT license - see [LICENSE](https://github.com/BayraktarLab/GBM_space_paper/blob/main/LICENSE) for more information.
 
 ## Contact
-
+ob5 AT sanger.ac.uk
